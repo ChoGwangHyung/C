@@ -1,3 +1,3 @@
 This is the October 2019 project.
 
-I wrote it using the code of the professor
+The basic base code is the professor's code.
