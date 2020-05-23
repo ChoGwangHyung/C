@@ -1,0 +1,29 @@
+﻿  Component.cpp
+c:\users\조광형\desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\oop-2019_2\screen\screen\utils.h(94): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Food.cpp
+c:\users\조광형\desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\oop-2019_2\screen\screen\utils.h(94): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\조광형\desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\oop-2019_2\screen\screen\food.cpp(23): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\조광형\desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\oop-2019_2\screen\screen\food.cpp(24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameEngine.cpp
+c:\users\조광형\desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\oop-2019_2\screen\screen\utils.h(94): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  GameObject.cpp
+c:\users\조광형\desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\oop-2019_2\screen\screen\utils.h(94): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  main.cpp
+c:\users\조광형\desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\oop-2019_2\screen\screen\utils.h(94): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  MoveScript.cpp
+c:\users\조광형\desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\oop-2019_2\screen\screen\utils.h(94): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\조광형\desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\oop-2019_2\screen\screen\movescript.cpp(23): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MyScript.cpp
+  Text.cpp
+c:\users\조광형\desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\oop-2019_2\screen\screen\utils.h(94): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\조광형\desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\oop-2019_2\screen\screen\text.cpp(36): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\조광형\desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\oop-2019_2\screen\screen\text.cpp(42): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Transform.cpp
+c:\users\조광형\desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\oop-2019_2\screen\screen\utils.h(94): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Ui.cpp
+c:\users\조광형\desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\oop-2019_2\screen\screen\utils.h(94): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Utils.cpp
+c:\users\조광형\desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\oop-2019_2\screen\screen\utils.h(94): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+c:\users\조광형\desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\oop-2019_2\screen\screen\gameobject.cpp(13): warning C4715: 'GameObject::Find': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Screen.vcxproj -> C:\Users\조광형\Desktop\2학년 2학기\수업 및 과제\객체지향2\객체 5번째 과제\OOP-2019_2\Screen\x64\Debug\Screen.exe
