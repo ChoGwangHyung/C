@@ -1,3 +1,3 @@
-2020-01-09 Start GitHub
+This is the May 2019 project.
 
-C, C++
+I wrote it using the code of the professor.
