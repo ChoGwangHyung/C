@@ -1,3 +1,3 @@
-2020-01-09 Start GitHub
+This is the September 2019 project.
 
-C, C++
+The basic base code is the professor's code.
